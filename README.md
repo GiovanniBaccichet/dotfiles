@@ -31,6 +31,14 @@
 
 I am creating this repo for allowing the future me to just clone it and have a cool looking and functional environment, instead of reconfiguring my setup each time I screw something up and I have no choice but to reinstall everything.
 
+<p align="center">
+<a href="https://github.com/GiovanniBaccichet/dotfiles">
+    <img src="imgs/config_screenshot.png" alt="Logo" width="750">
+</a>
+</p>
+
+The final result can be seen in the screenshot above. Nothing too crazy but elegant and most importantly functional.
+
 <!-- USAGE -->
 
 ## Usage
