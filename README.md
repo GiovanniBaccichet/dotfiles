@@ -31,9 +31,20 @@
 
 I am creating this repo for allowing the future me to just clone it and have a cool looking and functional environment, instead of reconfiguring my setup each time I screw something up and I have no choice but to reinstall everything.
 
-<!-- CONTRIBUTING -->
+<!-- USAGE -->
 
-## Contributing
+## Usage
+
+The commands to use to clone the repo and start the installation scripts are the following:
+
+```bash
+git clone https://github.com/GiovanniBaccichet/dotfiles ~/.dotfiles
+sudo bash ~/.dotfiles/install/copy_all.sh
+```
+
+<!-- CONTRIBUTE -->
+
+## Contribute
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -49,6 +60,8 @@ Contributions are what make the open source community such an amazing place to b
 
 -   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 -   [tmux](https://github.com/tmux/tmux)
+
+<!-- FUTURE WORK -->
 
 ## Future Work
 
