@@ -35,7 +35,7 @@ I am creating this repo for allowing the future me to just clone it and have a c
 
 ## Usage
 
-The commands to use to clone the repo and start the installation scripts are the following:
+To clone the repo and start the installation scripts use the following commands:
 
 ```bash
 git clone https://github.com/GiovanniBaccichet/dotfiles ~/.dotfiles
