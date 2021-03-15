@@ -29,7 +29,7 @@
 
 ## About The Project
 
-I am creating this repo to allow the future me of just cloning it and having a cool looking and functional environment, instead of reconfiguring my setup each time I screw something up and I have no choice but to reinstall everything.
+I am creating this repo for allowing the future me to just clone it and have a cool looking and functional environment, instead of reconfiguring my setup each time I screw something up and I have no choice but to reinstall everything.
 
 <!-- CONTRIBUTING -->
 
