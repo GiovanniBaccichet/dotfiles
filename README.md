@@ -15,7 +15,7 @@
   <h3 align="center">.files</h3>
 
   <p align="center">
-    My current VPS' dotfiles
+    My current dotfiles setup
     <br />
     <a href="https://github.com/GiovanniBaccichet/">My Profile 👨🏻‍💻</a>
     ·
