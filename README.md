@@ -87,4 +87,4 @@ Distributed under the GPLv3 License. See `LICENSE` for more information.
 
 ## Contact 📬
 
-Giovanni Baccichet - [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) - `giovanni[at]baccichet.org`
+Giovanni Baccichet - [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) - `github[at]baccichet.org`
