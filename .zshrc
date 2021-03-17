@@ -1,6 +1,6 @@
 export ZSH="/home/giovanni/.oh-my-zsh"
 
-ZSH_THEME="fino"
+ZSH_THEME="pirate"
 
 # Always use tmux
 if [[ ! "$TERM" =~ "screen" ]]; then
