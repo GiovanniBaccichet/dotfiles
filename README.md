@@ -53,7 +53,7 @@ git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$H
 
 <!-- CONTRIBUTE -->
 
-## Contribute ♥️
+## Contribute 💬
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
