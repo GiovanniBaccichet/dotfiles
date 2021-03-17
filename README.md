@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project 🔍
 
 I am creating this repo for allowing the future me to just clone it and have a cool looking and functional environment, instead of reconfiguring my setup each time I screw something up and I have no choice but to reinstall everything.
 
@@ -41,7 +41,7 @@ The final result can be seen in the screenshot above. Nothing too crazy but eleg
 
 <!-- USAGE -->
 
-## Usage
+## Usage 🔧
 
 To clone the repo and start the installation scripts use the following commands:
 
@@ -53,7 +53,7 @@ git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$H
 
 <!-- CONTRIBUTE -->
 
-## Contribute
+## Contribute ♥️
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -65,7 +65,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## Acknowledgements
+## Acknowledgements 📖
 
 -   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 -   [tmux](https://github.com/tmux/tmux)
@@ -73,18 +73,18 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- FUTURE WORK -->
 
-## Future Work
+## Future Work 🕰
 
 Automating the deployment of my dotfiles.
 
 <!-- LICENSE -->
 
-## License
+## License 📑
 
 Distributed under the GPLv3 License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+## Contact 📬
 
 Giovanni Baccichet - [@Giovanni_Bacci](https://twitter.com/Giovanni_Bacci) - `giovanni[at]baccichet.org`
