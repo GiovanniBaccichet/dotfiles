@@ -18,9 +18,9 @@
     My current dotfiles setup
     <br />
     <a href="https://github.com/GiovanniBaccichet/">My Profile 👨🏻‍💻</a>
-    ·
+    |
     <a href="https://github.com/GiovanniBaccichet/dotfiles/issues">Report Bug 🐛</a>
-    ·
+    |
     <a href="https://github.com/GiovanniBaccichet/dotfiles/issues">Request Feature ✨</a>
   </p>
 </p>
