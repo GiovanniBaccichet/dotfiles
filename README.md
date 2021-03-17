@@ -48,6 +48,7 @@ To clone the repo and start the installation scripts use the following commands:
 ```bash
 git clone https://github.com/GiovanniBaccichet/dotfiles ~/.dotfiles
 sudo bash ~/.dotfiles/install/copy_all.sh
+git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
 <!-- CONTRIBUTE -->
