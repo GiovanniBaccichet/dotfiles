@@ -69,6 +69,7 @@ Contributions are what make the open source community such an amazing place to b
 
 -   [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 -   [tmux](https://github.com/tmux/tmux)
+-   [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 <!-- FUTURE WORK -->
 
